@@ -7,7 +7,7 @@ A simple and stylish Expense Tracker web application that allows you to manage y
 
 ## 🔗 Live Demo
 
-You can try the live demo here: [https://your-vercel-domain.vercel.app](https://your-vercel-domain.vercel.app)
+You can try the live demo here: [https://expense-tracker-xi-five-66.vercel.app/](https://expense-tracker-xi-five-66.vercel.app/)
 
 ---
 
